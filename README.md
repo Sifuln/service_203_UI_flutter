@@ -4,8 +4,8 @@ A new Flutter project.
 
 # Design Overview
 
-<img src="" alt="Design 1" style="max-width: 100%;" width="300px" height="500px">
-<img src="" alt="Design 1" style="max-width: 100%;" width="300px" height="500px">
+<img src="https://raw.githubusercontent.com/Sifuln/service_203_UI_flutter/main/203_part1.png" alt="Design 1" style="max-width: 100%;" width="300px" height="500px">
+<img src="https://raw.githubusercontent.com/Sifuln/service_203_UI_flutter/main/203_part2.png" alt="Design 1" style="max-width: 100%;" width="300px" height="500px">
 
 
 
